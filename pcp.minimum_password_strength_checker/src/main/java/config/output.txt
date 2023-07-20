@@ -1,0 +1,14 @@
+GMAIL Password Strength = 19.9
+19.9
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+19.9
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+19.9
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+52.7
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+49.1
+Scenarios Not Sufficient. Need more Scenarios to determine GMAIL Password Strength
+Gmail Password Strength is: 49.1
